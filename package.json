@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "helpdesk-backend",
+=======
+  "name": "site",
+>>>>>>> f08ffcfcebacadb5e0920da6676289c6456621b1
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

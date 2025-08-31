@@ -1,11 +1,14 @@
 {
   "name": "helpdesk-backend",
   "version": "1.0.0",
-  "description": "Helpdesk backend for personal and office requests",
+  "description": "Helpdesk backend server for personal and office requests",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": [],
+  "author": "DaGzzz00",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5",

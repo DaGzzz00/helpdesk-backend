@@ -1,20 +1,14 @@
 {
-  "name": "site",
+  "name": "helpdesk-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Helpdesk backend for personal and office requests",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@supabase/supabase-js": "^2.56.1",
-    "body-parser": "^1.20.2",
-    "cors": "^2.8.5",
     "express": "^4.18.2",
-    "node-fetch": "^3.3.2"
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
   }
 }
